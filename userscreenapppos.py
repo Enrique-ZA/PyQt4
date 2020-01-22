@@ -1,3 +1,11 @@
+'''
+# Basic code about starting application
+# in center of screen
+# Enrique Nelson
+# 62746405@mylife.unisa.ac.za
+# https://github.com/Enrique-ZA
+'''
+
 import sys
 from PyQt4 import QtGui, QtCore
 
