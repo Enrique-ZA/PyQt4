@@ -4,4 +4,4 @@ PYQT4
 About
 =====
 
-This is repository is about projects or examples I did to learn PyQT4
+This is repository is about projects or examples I coded to learn and explore PyQT4
